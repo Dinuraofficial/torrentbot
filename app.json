@@ -1,0 +1,45 @@
+{
+    "name": "Torrent Search Bot by @supunma",
+    "description": "A Simple Telegram Inline Torrent Search Bot in Pyrogram by @AbirHasan2005",
+    "keywords": [
+        "telegram",
+        "inline",
+        "torrent",
+        "search",
+        "bot"
+    ],
+    "repository": "https://github.com/youtubeslgeekshow/torrentsearchbot",
+    "website": "https://github.com/youtubeslgeekshow/torrentsearchbot",
+    "success_url": "https://github.com/youtubeslgeekshow/torrentsearchbot",
+    "env": {
+        "API_ID": {
+            "description": "Get this value from my.telegram.org "
+        },
+        "API_HASH": {
+            "description": "Get this value from my.telegram.org "
+        },
+        "SESSION_NAME": {
+            "description": "Any Bot Session Name. You can keep default!",
+            "value": "Torrent-Search-Bot"
+        },
+        "BOT_TOKEN": {
+            "description": "Your Telegram Bot Token by @BotFather"
+        },
+        "MAX_INLINE_RESULTS": {
+            "description": "Max Telegram Inline Search Result. Keep Default!",
+            "value": "50",
+            "required": false
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
