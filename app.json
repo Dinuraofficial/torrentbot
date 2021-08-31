@@ -1,6 +1,7 @@
 {
-    "name": "Torrent Search Bot by @Dinura",
-    "description": "A Simple Telegram Inline Torrent Search Bot in Pyrogram by @AbirHasan2005",
+    "name": "Torrent Search Bot by @DinuraNikalansuriya",
+    "description": "A Simple Telegram Inline Torrent Search Bot in Pyrogram by @DinuraNikalansuriya",
+    "logo": "https://telegra.ph/file/6eee2b4223756758c55f2.jpg",
     "keywords": [
         "telegram",
         "inline",
@@ -8,9 +9,9 @@
         "search",
         "bot"
     ],
-    "repository": "https://github.com/youtubeslgeekshow/torrentsearchbot",
-    "website": "https://github.com/youtubeslgeekshow/torrentsearchbot",
-    "success_url": "https://github.com/youtubeslgeekshow/torrentsearchbot",
+    "repository": "https://github.com/Dinuraofficial/torrentbot",
+    "website": "https://github.com/Dinuraofficial",
+    "success_url": "https://t.me/Dinuranikalansuriya",
     "env": {
         "API_ID": {
             "description": "Get this value from my.telegram.org "
