@@ -1,3 +1,7 @@
+# <p align="center"> A Telegram Bot Can Get Torrent Magnetic link or Torrent Fille. </p>
+### Reach me on Telegram [Torrent D Bot](https://t.me/Inline_Torrent_D_bot)
+<p align="center">
+  <img src="https://socialify.git.ci/Dinuraofficial/torrentbot/image?description=1&descriptionEditable=A%20%20Telegram%20Bot%20Witch%20can%20Get%20Magnetic%20Links%20from%20Inline..&font=Inter&forks=1&issues=1&language=1&logo=https%3A%2F%2Ftelegra.ph%2Ffile%2F6eee2b4223756758c55f2.jpg&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Dark">
 
 <h1> Features 🔆 </h1>
 
@@ -7,45 +11,21 @@
 - Added YTS Search Support
 - Added Anime Torrents Search Support
 
-<img src="https://telegra.ph/file/c18a32b1b3d3744bf44dc.jpg" width="300 " height="300 "/></a></p>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Deploy to Heroku 🔥🕺 
+## Deploy to Heroku 🔥🕺 
 
 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dinuraofficial/torrentbot)
 
-###              The easiest way to deploy this  Bot
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Dinuraofficial/torrentbot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a></p>
-
-
-###   <a href="https://www.youtube.com/channel/UCvYfJcTr8RY72dIapzMqFQA?sub_confirmation=1"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
-###  🧙‍♀️ Deploy Guide
-<a href="https://www.youtube.com/channel/UCvYfJcTr8RY72dIapzMqFQA?sub_confirmation=1"><img src="https://telegra.ph/file/beca543cd87ec72be6069.jpg"></a>
 
 ### Developer :
 
-### [slbotzone](https://t.me/slbotzone)
+[N.M.Dinura Uthsara Nikalansuriya](https://t.me/Dinuranikalansuriya)
 
-<h1> Special Thanks 💝 </h1>
+<h3> Special Thanks </h3>
 
-###  All credits [Orginal Repo](https://github.com/AbirHasan2005/Torrent-Search-Bot/tree/main) ❤️❤️❤️
+###  All credits [Orginal Repo](https://github.com/AbirHasan2005/Torrent-Search-Bot/tree/main) 
 
 
 
