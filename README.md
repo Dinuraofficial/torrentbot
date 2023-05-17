@@ -23,9 +23,7 @@
 
 [N.M.Dinura Uthsara Nikalansuriya](https://t.me/Dinuranikalansuriya)
 
-<h3> Special Thanks </h3>
 
-###  All credits [Orginal Repo](https://github.com/AbirHasan2005/Torrent-Search-Bot/tree/main) 
 
 
 
